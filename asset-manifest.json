@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/FunnyPetDreamChallenge/static/css/main.4a6a9389.chunk.css",
+    "main.js": "/FunnyPetDreamChallenge/static/js/main.33bccf47.chunk.js",
+    "main.js.map": "/FunnyPetDreamChallenge/static/js/main.33bccf47.chunk.js.map",
+    "runtime-main.js": "/FunnyPetDreamChallenge/static/js/runtime-main.b869dc00.js",
+    "runtime-main.js.map": "/FunnyPetDreamChallenge/static/js/runtime-main.b869dc00.js.map",
+    "static/js/2.097741da.chunk.js": "/FunnyPetDreamChallenge/static/js/2.097741da.chunk.js",
+    "static/js/2.097741da.chunk.js.map": "/FunnyPetDreamChallenge/static/js/2.097741da.chunk.js.map",
+    "static/js/3.9c58dd37.chunk.js": "/FunnyPetDreamChallenge/static/js/3.9c58dd37.chunk.js",
+    "static/js/3.9c58dd37.chunk.js.map": "/FunnyPetDreamChallenge/static/js/3.9c58dd37.chunk.js.map",
+    "index.html": "/FunnyPetDreamChallenge/index.html",
+    "static/css/main.4a6a9389.chunk.css.map": "/FunnyPetDreamChallenge/static/css/main.4a6a9389.chunk.css.map",
+    "static/js/2.097741da.chunk.js.LICENSE.txt": "/FunnyPetDreamChallenge/static/js/2.097741da.chunk.js.LICENSE.txt",
+    "static/media/OGimg.b1f4f8cf.png": "/FunnyPetDreamChallenge/static/media/OGimg.b1f4f8cf.png",
+    "static/media/benner.6517e9eb.png": "/FunnyPetDreamChallenge/static/media/benner.6517e9eb.png",
+    "static/media/benner_mobile.57bbf8d1.png": "/FunnyPetDreamChallenge/static/media/benner_mobile.57bbf8d1.png",
+    "static/media/benner_mobile_zh.5a77b433.png": "/FunnyPetDreamChallenge/static/media/benner_mobile_zh.5a77b433.png",
+    "static/media/benner_zh.58f68e98.png": "/FunnyPetDreamChallenge/static/media/benner_zh.58f68e98.png",
+    "static/media/icon-facebook.acfbcd06.svg": "/FunnyPetDreamChallenge/static/media/icon-facebook.acfbcd06.svg",
+    "static/media/icon-instagram.5a7e047d.svg": "/FunnyPetDreamChallenge/static/media/icon-instagram.5a7e047d.svg",
+    "static/media/icon-twitter.04746803.svg": "/FunnyPetDreamChallenge/static/media/icon-twitter.04746803.svg",
+    "static/media/index.css": "/FunnyPetDreamChallenge/static/media/jf-openhuninn-1.1.8b3953f6.ttf",
+    "static/media/logo-capture.1b6b2ff3.svg": "/FunnyPetDreamChallenge/static/media/logo-capture.1b6b2ff3.svg",
+    "static/media/logo-captureClub.adb020ad.svg": "/FunnyPetDreamChallenge/static/media/logo-captureClub.adb020ad.svg",
+    "static/media/logo_capture.ce27dc2e.svg": "/FunnyPetDreamChallenge/static/media/logo_capture.ce27dc2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b869dc00.js",
+    "static/js/2.097741da.chunk.js",
+    "static/css/main.4a6a9389.chunk.css",
+    "static/js/main.33bccf47.chunk.js"
+  ]
+}
